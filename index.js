@@ -150,6 +150,9 @@ ${answers.usage}
 ## Contributing
 ${answers.guidelines}
 
+## Tests
+${answers.instructions}
+
 
 `;
 }
