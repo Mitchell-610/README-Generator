@@ -65,5 +65,13 @@ function promptUser() {
             message: 'What about your usage information?',
         },
 
+        // WHEN I enter contribution guidelines
+        // THEN this information is added to the sections of the README entitled contribution guidelines
+        {
+            type: 'input',
+            name: 'guidelines',
+            message: 'What would some of your contribution guidelines be?',
+        },
 
+      
     ])};
