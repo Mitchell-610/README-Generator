@@ -128,6 +128,9 @@ function generateREADME(answers) {
 ## Username
 ${answers.username}
 
+## License
+${licenseBadge}
+
 
 `;
 }
