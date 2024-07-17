@@ -122,7 +122,10 @@ function generateREADME(answers) {
 
     const licenseBadge = licenseBadges[answers.licenses];
 
-    return
+    return `
+# ${answers.title}
+
+`;
 }
 
     
