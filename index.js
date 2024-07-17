@@ -144,6 +144,9 @@ ${answers.description}
 ## Installation
 ${answers.installation}
 
+## Usage
+${answers.usage}
+
 
 `;
 }
