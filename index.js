@@ -57,5 +57,13 @@ function promptUser() {
             message: 'What are your installation instructions?',
         },
 
-      
+        // WHEN I enter usage information
+        // THEN this information is added to the sections of the README entitled information
+        {
+            type: 'input',
+            name: 'usage',
+            message: 'What about your usage information?',
+        },
+
+
     ])};
