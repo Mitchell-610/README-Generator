@@ -125,6 +125,10 @@ function generateREADME(answers) {
     return `
 # ${answers.title}
 
+## Username
+${answers.username}
+
+
 `;
 }
 
