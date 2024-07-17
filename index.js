@@ -131,6 +131,9 @@ ${answers.username}
 ## License
 ${licenseBadge}
 
+## Description
+${answers.description}
+
 
 `;
 }
