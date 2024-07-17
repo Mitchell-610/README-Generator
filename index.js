@@ -109,5 +109,11 @@ function promptUser() {
             name: 'github',
             message: 'Enter your GitHub Username',
         },
-
+        // WHEN I enter my email address
+        // THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+        {
+            type: 'input',
+            name: 'email',
+            message: 'Enter your email.',
+        }
     ])};
