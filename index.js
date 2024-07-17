@@ -25,5 +25,12 @@ const licenseBadges = {
 function promptUser() {
     return inquirer.prompt([
 
-        
+        // WHEN I enter my name
+        // THEN this is displayed as the user name of the README
+        {
+            type: 'input',
+            name: 'username',
+            message: 'What is your username?',
+        },
+
     ])};
