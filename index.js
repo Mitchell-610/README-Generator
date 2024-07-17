@@ -153,7 +153,10 @@ ${answers.guidelines}
 ## Tests
 ${answers.instructions}
 
-
+## Questions
+For questions about the project, you can reach me via:
+- GitHub: [${answers.github}](https://github.com/${answers.github})
+- Email: ${answers.email}
 `;
 }
 
