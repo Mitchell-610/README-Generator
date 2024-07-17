@@ -41,5 +41,13 @@ function promptUser() {
             message: 'What is your project title?',
         },
 
-       
+        // WHEN I entera description
+        // THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+        {
+            type: 'input',
+            name: 'description',
+            message: 'What is your description?',
+        },
+
+
     ])};
