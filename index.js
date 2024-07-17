@@ -120,6 +120,9 @@ function promptUser() {
 
 function generateREADME(answers) {
 
+    const licenseBadge = licenseBadges[answers.licenses];
+
+    return
 }
 
     
