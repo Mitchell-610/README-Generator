@@ -33,4 +33,13 @@ function promptUser() {
             message: 'What is your username?',
         },
 
+        // WHEN I enter my project title
+        // THEN this is displayed as the title of the README
+        {
+            type: 'input',
+            name: 'title',
+            message: 'What is your project title?',
+        },
+
+       
     ])};
