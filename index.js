@@ -141,6 +141,9 @@ ${answers.description}
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Installation
+${answers.installation}
+
 
 `;
 }
