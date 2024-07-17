@@ -168,6 +168,8 @@ promptUser()
         // Write the README file
         fs.writeFileSync('README.md', readmeContent);
 
+        //Console.log if the file was successful
+        console.log('README.md generated successfully!');
     })
     .catch((error) => {
         console.error('Error occurred:', error);
