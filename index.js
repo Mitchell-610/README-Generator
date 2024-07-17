@@ -161,3 +161,9 @@ For questions about the project, you can reach me via:
 }
 
 promptUser()
+    .then((answers) => {
+
+    })
+    .catch((error) => {
+        console.error('Error occurred:', error);
+    });
