@@ -147,6 +147,9 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
+## Contributing
+${answers.guidelines}
+
 
 `;
 }
