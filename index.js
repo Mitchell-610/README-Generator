@@ -162,6 +162,8 @@ For questions about the project, you can reach me via:
 
 promptUser()
     .then((answers) => {
+        // Generate README content
+        const readmeContent = generateREADME(answers);
 
     })
     .catch((error) => {
