@@ -164,6 +164,9 @@ promptUser()
     .then((answers) => {
         // Generate README content
         const readmeContent = generateREADME(answers);
+        
+        // Write the README file
+        fs.writeFileSync('README.md', readmeContent);
 
     })
     .catch((error) => {
