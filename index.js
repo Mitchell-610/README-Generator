@@ -22,3 +22,8 @@ const licenseBadges = {
 // WHEN I am prompted for information about my application repository
 // THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 
+function promptUser() {
+    return inquirer.prompt([
+
+        
+    ])};
