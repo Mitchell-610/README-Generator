@@ -73,5 +73,12 @@ function promptUser() {
             message: 'What would some of your contribution guidelines be?',
         },
 
-      
+        // WHEN I enter test instructions
+        // THEN this information is added to the sections of the README entitled instructions
+        {
+            type: 'input',
+            name: 'instructions',
+            message: 'What about your test instructions?',
+        },
+
     ])};
