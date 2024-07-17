@@ -102,5 +102,12 @@ function promptUser() {
             ]
         },
 
-        
+        // WHEN I enter my GitHub username
+        // THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+        {
+            type: 'input',
+            name: 'github',
+            message: 'Enter your GitHub Username',
+        },
+
     ])};
