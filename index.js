@@ -117,3 +117,9 @@ function promptUser() {
             message: 'Enter your email.',
         }
     ])};
+
+function generateREADME(answers) {
+
+}
+
+    
