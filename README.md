@@ -21,7 +21,7 @@ This is a command-line application that accepts user input and actually applies 
 First for our installation we will open up our terminal and run "npm init -y", this helps things get setup for us. Next we use the install platform that exists within npm, this can be ran using "npm install" or "npm i". We will need this to install our inquirer package to run the prompts we need. The way we install inquirer is "npm i inquirer@8.2.4". Once all of our packages are downloaded we are ready to go. You will run "node index.js (or whatever your file name is)" and fill out the information accordingly.
 
 ## Usage
-To use this amazing platform you just simply answer questions and watch the magic happen.
+To use this amazing platform you just simply answer questions and watch the magic happen. https://drive.google.com/file/d/1JrbBToDInutOW4Z-LzLBfl3em61r79C8/view?usp=sharing, this is a video of the functional operation for user purposes. 
 
 ## Contributing
 Anyone can contribute. Anything helpful to expand our great desing will be greatly appricated.
@@ -33,4 +33,4 @@ Test and debug as much as possible. If something new is added run it, if it work
 For questions about the project, you can reach me via:
 - GitHub: [Mitchell-610](https://github.com/Mitchell-610)
 - Email: Mheit602@gmail.com
-https://drive.google.com/file/d/1JrbBToDInutOW4Z-LzLBfl3em61r79C8/view?usp=sharing
+
